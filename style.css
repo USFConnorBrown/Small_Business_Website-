@@ -1,5 +1,5 @@
 * {
-margin: 0:
+margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
@@ -19,8 +19,8 @@ align-items: center;
 flex-wrap: wrap;
 }
 nav ul {
-    display : flex:
-    gap: 1.5 rem;
+    display : flex;
+    gap: 1.5rem;
     list-style: none;
 }
 nav a {
@@ -63,7 +63,7 @@ margin-bottom: 1rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     text-align: center;
     font-size: 1.1rem;
-    transition: transform 0.3s, backround-color 0.3s;
+    transition: transform 0.3s, background-color 0.3s;
 }
 .service:hover {
     transform: scale(1.05);
