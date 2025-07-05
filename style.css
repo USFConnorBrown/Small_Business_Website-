@@ -15,11 +15,11 @@ color: white; /* White text */
 padding: 1rem 2rem;
 display: flex;
 justify-content: space-between;
-allign-items: center;
+align-items: center;
 flex-wrap: wrap;
 }
 nav ul {
-    display : flex
+    display : flex:
     gap: 1.5 rem;
     list-style: none;
 }
